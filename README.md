@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mariadeavila00
-- 👀 I’m interested in 
-- 🌱 I’m currently learning back-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email mdeasilveira@gmail.com and by Linkedin Maria Eduarda de Avila Silveira
+## Olá meu nome é Maria Eduarda 
 
-<!---
-mariadeavila00/mariadeavila00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariadeavila00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadeavila00&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  ##
+  
+  <div align="center" height="150" style="border-radius:50px;>
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/cde06888a8aee421c350eb37b8f04384.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  </div>
